@@ -1,21 +1,21 @@
+<div align="center"> 
+
 # Welcome to the Miata NB1 Intake Development github!
 
-<br />
-<br />
+We aim for this project to not only be an exciting quest for performance but also a source of education for those who follow along.  
+It will be with our best effort that we as the development team document our data, whether previously known or freshly discovered,  
+in a format designed to be read and understood by anyone with a basic understanding of engine design concepts.
 
-We aim for this project to not only be an exciting quest for performance but also a source of education for those who follow along. It will be with our best effort that we as the development team document our data, whether previously known or freshly discovered, in a format designed to be read and understood by anyone with a basic understanding of engine design concepts.
+We encourage those of you following along with the project to perform experiments of your own,  
+and apply what you discover in this database to your own projects,  
+and if you don’t have a project, start one!
 
-<br />
-
-We encourage those of you following along with the project to perform experiments of your own, and apply what you discover in this database to your own projects, and if you don’t have a project, start one!
-
-<br />
-
-Fostering a sense of community has been, and will always be, the number one priority in every open-source project led by Stand Motor Company. We are grateful for everyone’s participation in each step of the journey, and we are honored to be involved in a step of your own.
-
-<br />
+Fostering a sense of community has been, and will always be, the number one priority in every  
+open-source project led by Stand Motor Company. We are grateful for everyone’s participation  
+in each step of the journey, and we are honored to be involved in a step of your own.
 
 So, with that, here are the technical guidelines:
+</div>
 
 <br />
 <br />
