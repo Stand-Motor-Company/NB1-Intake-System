@@ -8,7 +8,9 @@ We encourage those of you following along with the project to perform experiment
 
 Fostering a sense of community has been, and will always be, the number one priority in every open-source project led by Stand Motor Company. We are grateful for everyone’s participation in each step of the journey, and we are honored to be involved in a step of your own.  
 
-So, with that, here are the technical guidelines:  
+<br />
+
+**So, with that, here are the technical guidelines:**
 </div>
 
 <br />
